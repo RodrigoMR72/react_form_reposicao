@@ -21,5 +21,5 @@ git commit -m "[mensagem]"
 ```
 
 ```
-git push
+git push --set-upstream origin master
 ```
